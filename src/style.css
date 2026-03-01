@@ -316,7 +316,7 @@ h6 {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('/building_exterior.jpeg');
+  background-image: url('../public/building_exterior.jpeg');
   background-size: cover;
   background-position: center;
 }
